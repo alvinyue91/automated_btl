@@ -1,0 +1,12 @@
+*.sqlite3
+*__init__*
+*__pycache__*
+*.DS_Store*
+*local.py
+*staging.py
+*production.py
+*prod.py
+*.idea/
+*env/
+*config.ini
+*.ipynb_checkpoints/
